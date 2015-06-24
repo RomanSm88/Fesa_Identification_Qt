@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Fesa_Identification_Qt">
+    <file>Resources/font_label.bmp</file>
+  </qresource>
+</RCC>
